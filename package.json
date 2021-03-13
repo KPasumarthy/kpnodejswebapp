@@ -34,7 +34,7 @@
     "jquery": "^3.5.0",
     "jw-angular-pagination": "^1.1.0",
     "mongodb": "^3.2.4",
-    "mongoose": "^5.3.8",
+    "mongoose": "^5.7.5",
     "mysql": "^2.18.1",
     "ngx-bootstrap": "^5.6.1",
     "ngx-pagination": "^5.0.0",
